@@ -71,4 +71,5 @@ This project allowed me to apply both web development and data filtering techniq
 ##
 
 #OUTPUT
-
+![Image](https://github.com/user-attachments/assets/62bab3a2-066e-4c1e-9a3e-8aca25557542)
+![Image](https://github.com/user-attachments/assets/7fa3daaf-474c-4e63-b0ce-be70b2f97881)
